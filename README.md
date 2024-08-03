@@ -67,23 +67,23 @@ Make sure you have the following software installed:
 
 ### Folder Structure
 
-havetodo/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── AddToDo.js
-│ │ ├── Container.js
-│ │ ├── Hero.js
-│ │ ├── Navbar.js
-│ │ ├── ToDoItem.js
-│ │ ├── ToDoList.js
-│ ├── App.css
-│ ├── App.js
-│ ├── index.css
-│ ├── index.js
-├── db.json
-├── package.json
-└── README.md
+havetodo/<br>
+├── public/<br>
+├── src/<br>
+│ ├── components/<br>
+│ │ ├── AddToDo.js<br>
+│ │ ├── Container.js<br>
+│ │ ├── Hero.js<br>
+│ │ ├── Navbar.js<br>
+│ │ ├── ToDoItem.js<br>
+│ │ ├── ToDoList.js<br>
+│ ├── App.css<br>
+│ ├── App.js<br>
+│ ├── index.css<br>
+│ ├── index.js<br>
+├── db.json<br>
+├── package.json<br>
+└── README.md<br>
 
 
 ### Available Scripts
