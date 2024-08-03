@@ -1,0 +1,53 @@
+/* .custom-checkbox .form-check-input {
+    display: none;
+  }
+
+  .custom-checkbox .form-check-label {
+    position: relative;
+    padding-left: 35px; 
+    cursor: pointer;
+  }
+
+  .custom-checkbox .form-check-label::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 25px;
+    height: 25px;
+    border: 2px solid red;
+    border-radius: 50%;
+    background: white;
+    transition: all 0.3s ease;
+  }
+
+  .custom-checkbox .form-check-input:checked + .form-check-label::before {
+    background-color: green; 
+    border-color: white;
+  } */
+
+  
+    .contain .default{
+    position: relative;
+    opacity: 0;
+    cursor: pointer;
+    top:0;
+    pointer-events: all;
+
+   }
+
+   .checkmark{
+    position: absolute;
+    background-color: #fff;
+    border: 2px solid green;
+    height: 25px;
+    width: 25px;
+    pointer-events: none;
+    border-radius: 50%;
+    left: 0px;
+   }
+   .contain input:checked ~ .checkmark {
+    background-color:green; /* Bootstrap danger color */
+    border:2px solid wheat;
+   } 
+   

@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "ea23d5ba-f013-441a-b3ec-e9e0d3b56c26",
+      "text": "new",
+      "completed": true
+    },
+    {
+      "id": "b19f9951-571b-4c06-8363-8833acefbcfa",
+      "text": "old",
+      "completed": true
+    },
+    {
+      "id": "a2dc6969-97f4-4528-aaf9-baccba355eaa",
+      "text": "medivial",
+      "completed": true
+    }
+  ]
+}
